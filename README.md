@@ -1,4 +1,4 @@
-# Nature-2017-Mastering_the_game_of_Go_without_Human_Knowledge-unpublished_version(by DeepMind company)
+# Nature-2017-Mastering the game of Go without Human Knowledge (unpublished version by DeepMind company)
 This Nature paper presents a deep reinforcement learning (DRL) algorithm without supervision by humans that is more clean and elegant than their previous DRL algorithm (published also in Nature). Cool!
 Here I upload the unpublished version of this paper as well as supplementary information in order to help someone who want to read it. In the following, I give out the "Abstract" (cited from the Nature paper):
 
